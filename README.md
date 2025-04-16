@@ -34,29 +34,14 @@
 </p>
 
 <p align="center">  
-  <img src="readme_asset/1.png">
+  <img src="readme_asset/8.png">
 </p>
 
 
-## Key Features
-
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+## Cài đặt để chạy
+* Apache NetBeans 21, Eclipse 2024-03R
+* Oracle Database 19c.
+* JDK 22 và thêm các file thư viện jcommon-1.0.23, jfreechart-1.0.19, jfreechart-1.0.19-experimental, jfreechart-1.0.19-swt, ojdbc11. 
 
 ## Một số ảnh của ứng dụng
 ### Trang đăng nhập
