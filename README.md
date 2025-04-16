@@ -3,11 +3,11 @@
   <br>
   
   <br>
-  E-COMMERCE WEBSITE IDIDONG
+  QSR MANAGER APP
   <br>
 </h1>
 
-<h4 align="center">Trang web clone theo Thegioididong</h4>
+<h4 align="center">Ứng dụng quản lý cửa hàng thức ăn nhanh</h4>
 
 <p align="center">  
   <a>
