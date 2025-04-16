@@ -1,8 +1,6 @@
 
 <h1 align="center">
   <br>
-  
-  <br>
   QSR MANAGER APP
   <br>
 </h1>
