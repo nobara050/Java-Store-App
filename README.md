@@ -74,30 +74,22 @@
   <img src="readme_asset/3.png">
 </p>
 
-### Giao diện đăng nhập
+### Quản lý khách hàng
 <p align="center">  
   <img src="readme_asset/4.png">
 </p>
 
-### Giao diện đăng nhập
+### Quản lý sản phẩm
 <p align="center">  
   <img src="readme_asset/5.png">
 </p>
 
-### Giao diện đăng nhập
+### Trang nhập hàng
 <p align="center">  
   <img src="readme_asset/6.png">
 </p>
 
-### Giao diện đăng nhập
+### Trang thống kê doanh thu
 <p align="center">  
   <img src="readme_asset/7.png">
 </p>
-
-## Download
-
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
-
-## Emailware
-
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
