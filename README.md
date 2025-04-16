@@ -25,12 +25,8 @@
 </p>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#how-to-use">Cài đặt</a> •
+  <a href="#download">Một số ảnh</a> •
 </p>
 
 <p align="center">  
@@ -38,7 +34,7 @@
 </p>
 
 
-## Cài đặt để chạy
+## Cài đặt
 * Apache NetBeans 21, Eclipse 2024-03R
 * Oracle Database 19c.
 * JDK 22 và thêm các file thư viện jcommon-1.0.23, jfreechart-1.0.19, jfreechart-1.0.19-experimental, jfreechart-1.0.19-swt, ojdbc11. 
