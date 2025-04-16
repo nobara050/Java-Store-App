@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="#how-to-use">Cài đặt</a> •
-  <a href="#download">Một số ảnh</a> •
+  <a href="#download">Một số ảnh</a>
 </p>
 
 <p align="center">  
