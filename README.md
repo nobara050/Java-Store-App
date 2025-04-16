@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="## Cài đặt">Cài đặt</a> •
+  <a href="## Cài-đặt">Cài đặt</a> •
   <a href="## Một số ảnh của ứng dụng">Một số ảnh</a>
 </p>
 
