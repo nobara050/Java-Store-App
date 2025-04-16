@@ -58,27 +58,41 @@
 * Cross platform
   - Windows, macOS and Linux ready.
 
-## How To Use
+## Một số ảnh của ứng dụng
+### Trang đăng nhập
+<p align="center">  
+  <img src="readme_asset/1.png">
+</p>
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+### Trang đặt món
+<p align="center">  
+  <img src="readme_asset/2.png">
+</p>
 
-```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+### Quản lý hóa đơn
+<p align="center">  
+  <img src="readme_asset/3.png">
+</p>
 
-# Go into the repository
-$ cd electron-markdownify
+### Giao diện đăng nhập
+<p align="center">  
+  <img src="readme_asset/4.png">
+</p>
 
-# Install dependencies
-$ npm install
+### Giao diện đăng nhập
+<p align="center">  
+  <img src="readme_asset/5.png">
+</p>
 
-# Run the app
-$ npm start
-```
+### Giao diện đăng nhập
+<p align="center">  
+  <img src="readme_asset/6.png">
+</p>
 
-> **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
-
+### Giao diện đăng nhập
+<p align="center">  
+  <img src="readme_asset/7.png">
+</p>
 
 ## Download
 
